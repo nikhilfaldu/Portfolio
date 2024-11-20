@@ -36,16 +36,6 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
-## Features
-
-- Responsive design
-- Project showcase
-- Contact form
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 Feel free to reach out to me at [email@example.com](mailto:nikhilfaldu2003@gmail.com) or visit my linkdin <a href="https://www.linkedin.com/in/nikhil-faldu/" target="_blank">Nikhil Faldu</a> for more information.
