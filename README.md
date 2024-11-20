@@ -3,6 +3,8 @@
   <p>Welcome to my portfolio!</p>
 </h2>
 
+![portfolt_pr](https://github.com/user-attachments/assets/c9499968-4ca3-422d-8a56-3f6ad9932c7b)
+
 ![Screenshot (521)](https://github.com/user-attachments/assets/e5e62d29-960e-4b32-8107-693d60407c7c)
 
 ![Screenshot (522)](https://github.com/user-attachments/assets/914f91b8-6225-4b78-acc8-003d694f3ca2)
@@ -16,7 +18,6 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [License](#license)
 
 ## Introduction
 
