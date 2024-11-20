@@ -1,6 +1,5 @@
 <h2 align="center">
   Portfolio Website - Nikhil Faldu
-  <p>Welcome to my portfolio!</p>
 </h2>
 
 ![portfolt_pr](https://github.com/user-attachments/assets/c9499968-4ca3-422d-8a56-3f6ad9932c7b)
