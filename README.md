@@ -13,12 +13,6 @@
 
 ![Screenshot (524)](https://github.com/user-attachments/assets/8ace5b5a-8d16-4117-a72a-748fc3ccb26f)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-
 ## Introduction
 
 This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
