@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecc2b449.css",
+    "main.js": "/static/js/main.1e959cf9.js",
+    "static/js/501.1516e5bf.chunk.js": "/static/js/501.1516e5bf.chunk.js",
+    "static/media/e cormace.png": "/static/media/e cormace.5a33159cc2b02e81ab7b.png",
+    "static/media/kkgh_pr.png": "/static/media/kkgh_pr.085ea3e12b1085a87705.png",
+    "static/media/logo.png": "/static/media/logo.cb7cfe03e155a3d9155b.png",
+    "static/media/chess.png": "/static/media/chess.35049f661857091c282f.png",
+    "static/media/TRV HMS.png": "/static/media/TRV HMS.3665d1128de8cfb8182d.png",
+    "static/media/trividhya-icon.png": "/static/media/trividhya-icon.4577da38b604f28e1238.png",
+    "static/media/valutleagder.png": "/static/media/valutleagder.5bbf01d0aa3eb9ae51e8.png",
+    "static/media/quiz_pr.png": "/static/media/quiz_pr.2e63e0c498395f113c49.png",
+    "static/media/rynocms.png": "/static/media/rynocms.d764b564a14aff948635.png",
+    "static/media/mind_pr.png": "/static/media/mind_pr.7f768e989cd46dba723f.png",
+    "static/media/trivhdya-erp.png": "/static/media/trivhdya-erp.39752346de0b19e60c34.png",
+    "static/media/carrent_pr.png": "/static/media/carrent_pr.784fbc184e1f92eac63f.png",
+    "static/media/foodorder_pr.png": "/static/media/foodorder_pr.25f7d394c090af260aad.png",
+    "static/media/portfolt_pr.png": "/static/media/portfolt_pr.49d8fa1ab6ae2d65b1d7.png",
+    "static/media/uiux_pr.png": "/static/media/uiux_pr.94e57c8ac3678b51f46a.png",
+    "static/media/srs_pr.png": "/static/media/srs_pr.9232ad397304e1de3cb3.png",
+    "static/media/dart_pr.png": "/static/media/dart_pr.c1a8d0db69c4aa6474ec.png",
+    "static/media/nifty-staddle.png": "/static/media/nifty-staddle.81f861e8645fdccddd8e.png",
+    "static/media/lunx crm.png": "/static/media/lunx crm.8ff0ac01453a7068002e.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/profile-photoes.jpeg": "/static/media/profile-photoes.df58f8dd6e6dbb7f71d5.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "main.ecc2b449.css.map": "/static/css/main.ecc2b449.css.map",
+    "main.1e959cf9.js.map": "/static/js/main.1e959cf9.js.map",
+    "501.1516e5bf.chunk.js.map": "/static/js/501.1516e5bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc2b449.css",
+    "static/js/main.1e959cf9.js"
+  ]
+}

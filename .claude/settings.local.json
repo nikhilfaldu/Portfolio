@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(npm install:*)",
+      "Bash(npx react-scripts:*)",
+      "Bash(NODE_OPTIONS=--openssl-legacy-provider npx react-scripts build 2>&1 | tail -10)",
+      "Bash(nvm ls:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)"
+    ]
+  }
+}

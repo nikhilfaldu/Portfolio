@@ -8,20 +8,28 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            👋 Hi Everyone, I'm <span className="purple">Nikhil Faldu</span>, a Full Stack Developer. <br />
-            Currently studying Computer Science Engineering at the <span className="purple">Darshan University, Rajkot</span> 
-            <br />
-            <br />
-            I'm dedicated to honing my skills in web development. Alongside, I'm venturing into the fascinating field of <span className="purple">React. js</span> and <span className="purple">Node. js</span> exploring its potential to drive innovation.
+          <p style={{ textAlign: "justify", fontSize: "0.95em" }}>
+            👋 Hi Everyone, I'm <span className="purple">Nikhil Faldu</span> — a{" "}
+            <span className="purple">Full Stack Software Developer</span>.
             <br /><br />
-            My goal is to leverage both my <span className="purple">Full Stack Developer</span> expertise and newfound knowledge in <span className="purple">PHP Developer</span> to create impactful solutions that shape the future of technology.
-            <br /><br />Let's collaborate and bring bold ideas to life!
-            <br />
+            Currently, I'm the <span className="purple">Founder & Director</span> of{" "}
+            <span className="purple">Trividhya Innovation Pvt. Ltd.</span> and also working as a{" "}
+            <span className="purple">Senior Full Stack Developer</span> at{" "}
+            <span className="purple">Eclipso Infoweb LLP</span>.
+            <br /><br />
+            Trividhya has been growing with strong marketing presence and we're preparing ourselves for the{" "}
+            <span className="purple">AI-driven digital future</span>. Our main focus is helping{" "}
+            <span className="purple">small businesses</span> transition into the digital world through smart strategies and innovative solutions.
+            <br /><br />
+            We build <span className="purple">complex & advanced innovation systems</span> and leverage{" "}
+            <span className="purple">AI & ML</span> to boost our projects — because intelligent solutions are the future.
+            <br /><br />
+            Our core motivation at Trividhya is becoming experts in{" "}
+            <span className="purple">AI & custom software</span>, using that knowledge to create impactful, useful software for the market.
           </p>
-          <br></br>
+          <br />
           <p style={{ color: "rgb(155 126 172)" }}>
-          Simplicity isn’t just a choice; it’s my power move."{" "}
+            "Simplicity isn't just a choice; it's my power move."
           </p>
           <footer className="blockquote-footer">Nikhil Faldu</footer>
         </blockquote>
